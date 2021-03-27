@@ -51,12 +51,16 @@ This project consists in a simple API with the methods GET, POST, PUT and DELETE
 1. First, clone this repository: 
 
 ```bash
-git clone https://github.com/avnerjose/nlw4-reactjs-moveit.git
+git clone https://github.com/avnerjose/nodejs-simple-api-project.git
 ```
+2. Second, go to the folder you cloned the repository and install it's dependecies
 
-2. Second,go to the folder you cloned the repository and run the development server:
+```bash
+yarn
+```
+3. Third run the development server:
 
 ```bash
 yarn dev
 ```
-3. Third, open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Fourth, open [http://localhost:3333](http://localhost:3333) with the API client app of your choice.
