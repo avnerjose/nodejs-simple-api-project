@@ -13,6 +13,26 @@ This project consists in a simple API with the methods GET, POST, PUT and DELETE
         - price
  - GET: 
     - URL: [localhost:3333/products](http://localhost:3333/products)
+    - Optional Query Param: 
+        - name
+    - Return: 
+        - id 
+        - name
+        - description
+        - price
+- PUT: 
+    - URL: localhost:3333/products/id
+    - Body:
+        - name
+        - description
+        - price 
+    - Route Params: 
+        - id
+- DELETE: 
+    - URL: localhost:3333/products/id
+    - Route Params: 
+        - id 
+   
   
 ## 🖥️ Used Tecnologies
  - [NodeJS](https://nodejs.org/en/)
