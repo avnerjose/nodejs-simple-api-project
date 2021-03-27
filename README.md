@@ -48,19 +48,19 @@ This project consists in a simple API with the methods GET, POST, PUT and DELETE
  
 ## 🚀️ Getting Started
 
-1. First, clone this repository: 
+1. Clone this repository: 
 
 ```bash
 git clone https://github.com/avnerjose/nodejs-simple-api-project.git
 ```
-2. Second, go to the folder you cloned the repository and install it's dependecies
+2. Go to the folder you cloned the repository and install it's dependecies
 
 ```bash
 yarn
 ```
-3. Third run the development server:
+3. Run the development server:
 
 ```bash
 yarn dev
 ```
-4. Fourth, open [http://localhost:3333](http://localhost:3333) with the API client app of your choice.
+4. Use the API urls with the API client app of your choice.
