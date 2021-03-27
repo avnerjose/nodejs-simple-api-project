@@ -53,7 +53,7 @@ This project consists in a simple API with the methods GET, POST, PUT and DELETE
 ```bash
 git clone https://github.com/avnerjose/nodejs-simple-api-project.git
 ```
-2. Go to the folder you cloned the repository and install it's dependecies
+2. Go to the folder "nodejs-simple-api-project" you cloned and install the dependecies:
 
 ```bash
 yarn
