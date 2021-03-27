@@ -6,9 +6,9 @@ This is my first NodeJS project, it is a small one where I explore concepts of A
 This project consists in a simple API with the methods GET, POST, PUT and DELETE. The data is stored in a local array, and the item that can be created using the API is an product that has a name, description and a price. 
 
 - POST: 
-    - URL: [localhost:3333](http:localhost:3333/products/)
-    - Body:
-        - name,
+    - URL: [localhost:3333/products](http:localhost:3333/products/)
+    - Body
+        - name
         - description
         - price
   
