@@ -3,15 +3,18 @@
 This is my first NodeJS project, it is a small one where I explore concepts of API, and Middlewares using [Express](https://expressjs.com/). 
 
 ## ⚡️ The Project
-  The Moveit project was designed to make people who work in the computer to practice some simple exercíses to distract themselves in the interval between working periods.The project uses the concept of the Pomodoro technique which determines 25 minute working cycles and 5 minutes break beetween them, which alows people to keep more focused during working times. The project has a 25 minute timer that drops a new challenge when de time goes up, them you can make the proposed exercise, if you complete a challenge then you win xp that can make you go to a higher level in the aplication, if you fail, the clock simply resets and you can try again later after another 25 minute work cycle. 
+This project consists in a simple API with the methods GET, POST, PUT and DELETE. The data is stored in a local array, and the item that can be created using the API is an product that has a name, description and a price. 
+
+- POST: 
+    - URL: [localhost:3333](http:localhost:3333) 
   
 ## 🖥️ Used Tecnologies
- - [ReactJs](https://reactjs.org/)
- - [NextJs](https://nextjs.org/)
- - [Styled-Components](https://styled-components.com/)
+ - [NodeJS](https://nodejs.org/en/)
+ - [ExpressJS](https://expressjs.com/)
 
 ## ⚙️ Dependencies
  - [Yarn](https://yarnpkg.com/)
+ - [NodeJS](https://nodejs.org/en/)
  
 ## 🚀️ Getting Started
 
