@@ -1,10 +1,6 @@
 # <img align="" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Simple NodeJS Project 
 
-This is my first NodeJS project, it is a small one where I explore concepts of API, and Middlewares using Express. 
-
-
-
-This project was developed during the fourth edition of the online event called [NextLeveLWeek](https://nextlevelweek.com) ministred by [RocketSeat](https://github.com/Rocketseat)
+This is my first NodeJS project, it is a small one where I explore concepts of API, and Middlewares using [Express](https://expressjs.com/). 
 
 ## ⚡️ The Project
   The Moveit project was designed to make people who work in the computer to practice some simple exercíses to distract themselves in the interval between working periods.The project uses the concept of the Pomodoro technique which determines 25 minute working cycles and 5 minutes break beetween them, which alows people to keep more focused during working times. The project has a 25 minute timer that drops a new challenge when de time goes up, them you can make the proposed exercise, if you complete a challenge then you win xp that can make you go to a higher level in the aplication, if you fail, the clock simply resets and you can try again later after another 25 minute work cycle. 
